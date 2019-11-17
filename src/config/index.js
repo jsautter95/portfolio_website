@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Jean Sautter | Materials Engineer',
   siteDescription:
-    'Cyrus Behroozi is a software engineer based in Los Angeles who specializes in high performance computer vision.',
+    'Im a Materials Engineer based in Vancouver with a specialisation in material manufacturing, design and performance.',
   siteKeywords:
     'Jean Sautter, Jean, Sautter, Materials Engineer UBC, Highland foundry intern, machine learning, C++',
-  siteUrl: 'https://cyrusbehr.com', //TODO Cyrus
+  siteUrl: 'https://jeansautter.com',
   siteLanguage: 'en_US',
   name: 'Jean Sautter',
   location: 'Vancouver, Canada',
