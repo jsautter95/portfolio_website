@@ -1,24 +1,24 @@
 module.exports = {
-  siteTitle: 'Cyrus Behroozi | Software Engineer',
+  siteTitle: 'Jean Sautter | Materials Engineer',
   siteDescription:
     'Cyrus Behroozi is a software engineer based in Los Angeles who specializes in high performance computer vision.',
   siteKeywords:
-    'Cyrus Behroozi, Cyrus, Behroozi, cyrus.behr, cyrusbehr, software engineer, computer vision, machine learning, C++',
+    'Jean Sautter, Jean, Sautter, Materials Engineer UBC, Highland foundry intern, machine learning, C++',
   siteUrl: 'https://cyrusbehr.com', //TODO Cyrus
   siteLanguage: 'en_US',
-  name: 'Cyrus Behroozi',
-  location: 'Los Angeles, CA',
-  email: 'cyrus.behr@gmail.com',
-  github: 'https://github.com/cyrusbehr',
+  name: 'Jean Sautter',
+  location: 'Vancouver, Canada',
+  email: 'jean95sautter@gmail.com',
+  github: '',
   twitterHandle: '',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/cyrusbehr',
+      url: '',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/cyrus-behroozi/',
+      url: 'https://www.linkedin.com/in/jeanedouardsautter/',
     },
   ],
 

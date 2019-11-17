@@ -8,11 +8,13 @@ skills:
   - Optical spectroscopy
   - Scanning electron microscopy
   - X-Ray Diffraction analysis
-  - React
+  - SolidWorks
+  - AutoCad
+
 ---
 
 Hello! I'm Jean, I recently graduated from the [University of British Columbia](https://mtrl.ubc.ca/) with a Bachelors degree in Materials Engineering.
-I specialised in materials manufacturing, design and performance and have work experience in both super duplex stainless steel casting R&D and academic research.
+I specialised in materials manufacturing, design and performance and have work experience in both stainless steel casting R&D and as an undergraduate research assistant.
 I have a very international background, having lived in 8 countries across Europe, Asia, Africa and North America.
 This has given me the ability to thrive in different environments and work well with people of diverse cultures.
 

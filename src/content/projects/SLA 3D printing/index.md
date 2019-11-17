@@ -1,8 +1,8 @@
 ---
-date: '2019-10-23'
-title: 'Speed Benchamrks'
+date: '2018-10-23'
+title: 'Capstone project on SLA 3D printing'
 image: ''
-github: 'https://github.com/cyrusbehr/benchmarks'
+github: ''
 external: ''
 tech:
   - C++

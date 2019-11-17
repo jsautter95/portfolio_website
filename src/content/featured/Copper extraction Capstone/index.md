@@ -1,6 +1,6 @@
 ---
-date: '1'
-title: 'Brick BREAKR'
+date: '2'
+title: 'Copper extraction Capstone'
 cover: './horizons.png'
 github: 'https://github.com/cyrusbehr/Horizons-Hackathon-VR-Game'
 external: 'https://www.youtube.com/watch?v=9CfLI9RGL14'
