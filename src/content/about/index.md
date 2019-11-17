@@ -10,7 +10,7 @@ skills:
   - React
 ---
 
-Hello! I'm Cyrus, a computer vision software developer based in Los Angeles. I studied mechatronics engineering at the [University of British Columbia](https://mech.ubc.ca/undergraduate/curriculum/program-options/mechatronics/).
+Hello! I'm Jean, a computer vision software developer based in Los Angeles. I studied mechatronics engineering at the [University of British Columbia](https://mech.ubc.ca/undergraduate/curriculum/program-options/mechatronics/).
 I am currently working as a computer vision engineer at [Trueface](https://www.trueface.ai/)
 
 Aside from coding and building things, I have a thrill for adventure. I enjoy rock climbing, surfing, hiking, and yoga. 
