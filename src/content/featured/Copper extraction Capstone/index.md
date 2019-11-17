@@ -1,14 +1,16 @@
 ---
 date: '2'
 title: 'Copper solvent extraction & electrowinning plant design'
-cover: './horizons.png'
+cover: './flowdiagram.png'
 github: 'https://github.com/cyrusbehr/Horizons-Hackathon-VR-Game'
-external: 'https://www.youtube.com/watch?v=9CfLI9RGL14'
+external: 'https://drive.google.com/file/d/1o5by33An_gg12DaC-j9DAaynyfOI4pxj/view?usp=sharing'
 tech:
-  - Tracking.hs
-  - Three.js
+  - Flow Diagrams
+  - Mass and Heat Balance
+  - Economic sensitivity analysis
 
 show: 'true'
 ---
 
-Created augmented reality version of popular game brick breaker during 24 hour hackathon. Recieved 1st place.
+Designed a solvent extraction and electrowinning plant for copper in Arizona, USA.
+
