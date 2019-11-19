@@ -12,5 +12,5 @@ tech:
 show: 'true'
 ---
 
-Designed a solvent extraction and electrowinning plant for copper in Arizona, USA.
+Designed a solvent extraction and electrowinning plant for copper in Arizona, USA.  - Press on image to be directed to full report
 
